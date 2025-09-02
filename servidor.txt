@@ -1,0 +1,3 @@
+
+arrancar servidor
+php -S localhost:8000
